@@ -1,1 +1,2 @@
 # CognoRise_HangmanGame
+This code implements the classic Hangman game in Java. It randomly selects a fruit word from a predefined list and prompts the user to guess letters. The game displays the hidden word with underscores and tracks the user's incorrect guesses. For each wrong guess, a part of the hangman figure is drawn. The user wins by correctly guessing all letters before running out of attempts. The code utilizes arrays, loops, and ASCII art to create an interactive command-line experience.
